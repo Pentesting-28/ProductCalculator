@@ -2,7 +2,7 @@
 
 This is a product calculator project that allows you to calculate the weight of packaging and a sample based on the gross and net weight entered by the user.
 
-![login example](example.png)
+![example](example.png)
 
 ## Requirements
 
